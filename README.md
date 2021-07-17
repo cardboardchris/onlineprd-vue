@@ -22,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+![](https://raw.githubusercontent.com/cardboardchris/onlineprd-vue/master/assignments%20by%20department.png)
